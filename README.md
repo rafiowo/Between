@@ -36,22 +36,63 @@ The dashboard shows both directions separately. Net balance is money owed to you
 
 ## App Preview
 
-<img width="180" alt="IMG_7026" src="https://github.com/user-attachments/assets/1855b837-9b5d-4514-b13f-0cf0b307910f" />
-This is the home page for the app.
-<img width="180" alt="IMG_7027" src="https://github.com/user-attachments/assets/a2d1fffb-aebe-4f2f-bc19-76281c2d64a1" />
-You can make new entry, add description and due date. 
-<img width="180" alt="IMG_7035" src="https://github.com/user-attachments/assets/54f34444-5663-4c1f-be0a-854876bdcafe" />
-Here you can see my twin owes me some money. 
-<img width="180" alt="IMG_7030" src="https://github.com/user-attachments/assets/03c6d8ca-5a1b-42d0-8f1a-503b63164be7" />
-You can add more if they take more money from you or can deduct some money if you had some flaws in your calculation. You can also add repayment. If they pay you back or you pay them back, you can settle it and can access the list in the settled menu.
-<img width="180" alt="IMG_7032" src="https://github.com/user-attachments/assets/d3578279-69ca-4bd7-b1ee-59ad6b162ec8" />
-In the same page you if you go down you can check the repayment history.
-<img width="590" height="1278" alt="IMG_7033" src="https://github.com/user-attachments/assets/520b3161-ff02-48a3-8612-3dc56bf28e0b" />
-Can access all your settled payment in this page.
-<img alt="IMG_7037" src="https://github.com/user-attachments/assets/a55a9538-7402-48e0-b75d-403c71614f4e" />
-<img width="590" height="1278" alt="5555555" src="https://github.com/user-attachments/assets/24274cbb-46da-441b-bf6e-47bf389e2ada" />
-You can export or import the data easily and it can be accessed by clicking on the menu button which is located on the top right of the home page. 
+## A look inside
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Your overview</h3>
+      <img width="220" alt="Home screen showing your balances" src="https://github.com/user-attachments/assets/1855b837-9b5d-4514-b13f-0cf0b307910f" />
+      <p>See what you owe and what you’re owed at a glance.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Add an entry</h3>
+      <img width="220" alt="Create a new entry" src="https://github.com/user-attachments/assets/a2d1fffb-aebe-4f2f-bc19-76281c2d64a1" />
+      <p>Add an amount, a description, and an optional due date.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Keep track by person</h3>
+      <img width="220" alt="Open entries for a person" src="https://github.com/user-attachments/assets/54f34444-5663-4c1f-be0a-854876bdcafe" />
+      <p>View each person’s balance and open entries.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Manage an entry</h3>
+      <img width="220" alt="Entry details and payment actions" src="https://github.com/user-attachments/assets/03c6d8ca-5a1b-42d0-8f1a-503b63164be7" />
+      <p>Adjust amounts, record repayments, or mark an entry as settled.</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>More features — repayment history, settled entries, and data backup</strong></summary>
+  <br />
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Repayment history</h3>
+        <img width="220" alt="Repayment history for an entry" src="https://github.com/user-attachments/assets/d3578279-69ca-4bd7-b1ee-59ad6b162ec8" />
+        <p>Follow repayments from the entry’s detail page.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>All settled</h3>
+        <img width="220" alt="Settled entries" src="https://github.com/user-attachments/assets/520b3161-ff02-48a3-8612-3dc56bf28e0b" />
+        <p>Look back at entries you’ve already settled.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>Your data, with you</h3>
+        <img width="220" alt="App menu and data options" src="https://github.com/user-attachments/assets/a55a9538-7402-48e0-b75d-403c71614f4e" />
+        &nbsp;&nbsp;
+        <img width="220" alt="Import and export options" src="https://github.com/user-attachments/assets/24274cbb-46da-441b-bf6e-47bf389e2ada" />
+        <p>Import or export your data from the menu at the top right of the home screen.</p>
+      </td>
+    </tr>
+  </table>
+</details>
 
 
 
