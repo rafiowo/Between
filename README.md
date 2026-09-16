@@ -55,7 +55,7 @@ The dashboard shows both directions separately. Net balance is money owed to you
     <td align="center" width="50%">
       <h3>Keep track by person</h3>
       <img width="220" alt="Open entries for a person" src="https://github.com/user-attachments/assets/54f34444-5663-4c1f-be0a-854876bdcafe" />
-      <p>View each person’s balance and open entries.</p>
+      <p>View your twin's balance and open entries.</p>
     </td>
     <td align="center" width="50%">
       <h3>Manage an entry</h3>
