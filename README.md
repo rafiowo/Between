@@ -36,10 +36,27 @@ The dashboard shows both directions separately. Net balance is money owed to you
 
 ## App Preview
 
-<img width="140" alt="IMG_7026" src="https://github.com/user-attachments/assets/1855b837-9b5d-4514-b13f-0cf0b307910f" />
+<img width="180" alt="IMG_7026" src="https://github.com/user-attachments/assets/1855b837-9b5d-4514-b13f-0cf0b307910f" />
+This is the home page for the app.
+<img width="180" alt="IMG_7027" src="https://github.com/user-attachments/assets/a2d1fffb-aebe-4f2f-bc19-76281c2d64a1" />
+You can make new entry, add description and due date. 
+<img width="180" alt="IMG_7035" src="https://github.com/user-attachments/assets/54f34444-5663-4c1f-be0a-854876bdcafe" />
+Here you can see my twin owes me some money. 
+<img width="180" alt="IMG_7030" src="https://github.com/user-attachments/assets/03c6d8ca-5a1b-42d0-8f1a-503b63164be7" />
+You can add more if they take more money from you or can deduct some money if you had some flaws in your calculation. You can also add repayment. If they pay you back or you pay them back, you can settle it and can access the list in the settled menu.
+<img width="180" alt="IMG_7032" src="https://github.com/user-attachments/assets/d3578279-69ca-4bd7-b1ee-59ad6b162ec8" />
+In the same page you if you go down you can check the repayment history.
+<img width="590" height="1278" alt="IMG_7033" src="https://github.com/user-attachments/assets/520b3161-ff02-48a3-8612-3dc56bf28e0b" />
+Can access all your settled payment in this page.
+<img alt="IMG_7037" src="https://github.com/user-attachments/assets/a55a9538-7402-48e0-b75d-403c71614f4e" />
+<img width="590" height="1278" alt="5555555" src="https://github.com/user-attachments/assets/24274cbb-46da-441b-bf6e-47bf389e2ada" />
+You can export or import the data easily and it can be accessed by clicking on the menu button which is located on the top right of the home page. 
 
 
-## Verification
+
+
+## Verification![Uploading IMG_7037.png…]()
+
 
 An unsigned build for the generic iOS device destination succeeded with Xcode 26.6. The simulator was unavailable in the build environment, so interactive device and visual QA remain to be done.
 
