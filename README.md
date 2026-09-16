@@ -34,6 +34,11 @@ The dashboard shows both directions separately. Net balance is money owed to you
 - Backups are plaintext JSON. Protect exported copies; they contain names, notes, and amounts. Deleting the app removes local data. There is no cross-device sync.
 - Currency is fixed while entries exist to avoid changing the meaning of recorded amounts. No currency conversion is performed.
 
+## App Preview
+
+<img width="590" height="1278" alt="IMG_7026" src="https://github.com/user-attachments/assets/1855b837-9b5d-4514-b13f-0cf0b307910f" />
+
+
 ## Verification
 
 An unsigned build for the generic iOS device destination succeeded with Xcode 26.6. The simulator was unavailable in the build environment, so interactive device and visual QA remain to be done.
