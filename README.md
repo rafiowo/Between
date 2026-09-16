@@ -96,7 +96,7 @@ The dashboard shows both directions separately. Net balance is money owed to you
 
 
 
-## Verification![Uploading IMG_7037.png…]()
+## Verification
 
 
 An unsigned build for the generic iOS device destination succeeded with Xcode 26.6. The simulator was unavailable in the build environment, so interactive device and visual QA remain to be done.
