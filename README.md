@@ -36,7 +36,7 @@ The dashboard shows both directions separately. Net balance is money owed to you
 
 ## App Preview
 
-<img scale="200" alt="IMG_7026" src="https://github.com/user-attachments/assets/1855b837-9b5d-4514-b13f-0cf0b307910f" />
+<img scale="67" alt="IMG_7026" src="https://github.com/user-attachments/assets/1855b837-9b5d-4514-b13f-0cf0b307910f" />
 
 
 ## Verification
